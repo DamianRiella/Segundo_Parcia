@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void mostrarCadena(char *punteroCadena);
+
+int main()
+{
+    char cad[]= "Hoy es Sabado";
+
+    mostrarCadena(cad);
+    return 0;
+}
+
+void mostrarCadena(char *punteroCadena)
+{
+    while(*punteroCadena!='\0')
+    {
+        printf("%c",*punteroCadena);
+        punteroCadena++;
+    }
+}
