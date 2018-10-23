@@ -1,0 +1,30 @@
+clase 17:
+
+MEMORIA DINAMICA
+
+.se debe incluir la biblioteca <stdlib.h>
+
+malloc: devuelve un puntero de tipo void y recibe un dato de cualquier tipo(MEMORIA DE ALOGAMIENTO, pide memoria).
+	reserva memoria dependiendo el tipod de dato que vayamos a guardar.
+	Esto nos permite trabajar con la memoria dinamica y no estatica como veniamos trabajando, 
+	EJ: vec[5](mem. estac)
+	EJ: P= (INT*) malloc(sizeof(int)) de esta forma pedimos la cantidad de memoria que necesitamos para 
+		almacenar tosdos nuestros datos, sin limites.
+
+
+
+realloc= devuelve un puntero a void y va a recibir un puntero(que va a ser redimencionado) y un int(sizeof(int)*2)
+	nos sirve para agregar espacio en memoria o reducir memoria, siempre y cuando esa memoria pueda ser consecutiva
+	si no es asi devuelve NULL.
+	Se utiliza un auxiliar del puntero para corrovorar que lo que devolvio es distinto de NULL y asi evitar las perdisdas de datos.
+
+
+free= Libera espacio en memoria, recive un puntero y no devuelve nada void.
+	No se puede liberar dos veces el mismo puntero, osea la misma direcicon de memoria. 
+	Porque el sistema operativo no deja axeder nunca mas a esa direccion de memori.
+	Otra limitacion de esta funcion es que no se puede liberar un punmtero que contenga NULL.
+
+
+
+calloc= Es total mente lo mismo que malloc(funcionamiento), pero esta funcion te inicializa 0 cada elelmento de un array.
+	Y tambien se debe pasar la cantidad de elemento que contenga esa array.
