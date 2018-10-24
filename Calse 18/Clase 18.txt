@@ -1,0 +1,15 @@
+clase 18
+
+Archivos:
+
+r=
+
+w=
+
+
+.si queremos abrir un archivo en forma lectura y no existe la funcion Fopen() de vuelve 	NULL, 
+ en cambio si deseo abrirlo como escritura y no existe la funcion crea un nuevo archivo.
+
+.si abrimos un archivo en formato de escritura directamente y el archivo existe, se borra todos los datos almacenados.
+ entonces cada vez que abramos un archivos en formato de escritura va a crear un archivo nuevo,
+ debemos verificar que exista o no ese archivo antes de abrirlo, asi no perder informacion.
