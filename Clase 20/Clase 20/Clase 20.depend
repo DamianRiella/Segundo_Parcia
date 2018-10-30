@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1540941195 source:d:\clase 20\clase 20\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Clase20.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1540942514 d:\clase 20\clase 20\clase20.h
+
