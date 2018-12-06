@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1544134258 source:c:\users\alumno\desktop\damian_riella_1f\recuperatorio_2parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"Employee.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"parser.h"
+
+1544133476 c:\users\alumno\desktop\damian_riella_1f\recuperatorio_2parcial\utn.h
+
+1544133278 c:\users\alumno\desktop\damian_riella_1f\recuperatorio_2parcial\linkedlist.h
+
+1544136185 c:\users\alumno\desktop\damian_riella_1f\recuperatorio_2parcial\employee.h
+
+1544133594 c:\users\alumno\desktop\damian_riella_1f\recuperatorio_2parcial\controller.h
+
+1544133408 c:\users\alumno\desktop\damian_riella_1f\recuperatorio_2parcial\parser.h
+
