@@ -1,8 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "../inc/LinkedList.h"
-
+#include "UTN.h"
+#include "Linkedlist.h"
+#include "Employee.h"
+#include "Controller.h"
+#include "Parser.h"
 
 static Node* getNode(LinkedList* this, int nodeIndex);
 static int addNode(LinkedList* this, int nodeIndex,void* pElement);
@@ -683,5 +686,6 @@ int ll_sort(LinkedList* this, int (*pFunc)(void* ,void*), int order)
     }
     return returnAux;
 }
+
 
 

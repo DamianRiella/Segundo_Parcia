@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1543241379 source:c:\users\alons\desktop\segundo parcial\prototipo\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"parser.h"
+
+1543240283 c:\users\alons\desktop\segundo parcial\prototipo\utn.h
+
+1543240688 c:\users\alons\desktop\segundo parcial\prototipo\linkedlist.h
+
+1543240070 c:\users\alons\desktop\segundo parcial\prototipo\employee.h
+
+1543239754 c:\users\alons\desktop\segundo parcial\prototipo\controller.h
+
+1543239909 c:\users\alons\desktop\segundo parcial\prototipo\parser.h
+
+1543240890 source:c:\users\alons\desktop\segundo parcial\prototipo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+	"Linkedlist.h"
+	"Employee.h"
+	"Controller.h"
+	"Parser.h"
+
+1543240890 source:c:\users\alons\desktop\segundo parcial\prototipo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+	"Linkedlist.h"
+	"Employee.h"
+	"Controller.h"
+	"Parser.h"
+
+1543240890 source:c:\users\alons\desktop\segundo parcial\prototipo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+	"Linkedlist.h"
+	"Employee.h"
+	"Controller.h"
+	"Parser.h"
+
+1543240890 source:c:\users\alons\desktop\segundo parcial\prototipo\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+	"Linkedlist.h"
+	"Employee.h"
+	"Controller.h"
+	"Parser.h"
+
+1543241542 source:c:\users\alons\desktop\segundo parcial\prototipo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN.h"
+	"Linkedlist.h"
+	"Employee.h"
+	"Controller.h"
+	"Parser.h"
+
