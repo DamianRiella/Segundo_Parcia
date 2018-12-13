@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1544110050 source:d:\sancineto\sancineto_rsp\sancineto_rsp\linkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1544141513 d:\sancineto\sancineto_rsp\sancineto_rsp\linkedlist\linkedlist.h
+
+1544141817 source:d:\sancineto\sancineto_rsp\sancineto_rsp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList/LinkedList.h"
+	"parser.h"
+	"UTN/utn.h"
+	"vendedor.h"
+
+1544139917 d:\sancineto\sancineto_rsp\sancineto_rsp\parser.h
+	"LinkedList/LinkedList.h"
+
+1544110050 d:\sancineto\sancineto_rsp\sancineto_rsp\utn\utn.h
+
+1544141650 source:d:\sancineto\sancineto_rsp\sancineto_rsp\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList/LinkedList.h"
+	"vendedor.h"
+
+1544110050 source:d:\sancineto\sancineto_rsp\sancineto_rsp\utn\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1544141712 source:d:\sancineto\sancineto_rsp\sancineto_rsp\vendedor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vendedor.h"
+	"UTN/utn.h"
+	"LinkedList/LinkedList.h"
+	"parser.h"
+
+1544142517 d:\sancineto\sancineto_rsp\sancineto_rsp\vendedor.h
+	"LinkedList/LinkedList.h"
+
+1544110050 source:d:\user document\documents\apuntes\utn\programacion 1\sancineto_rsp\linkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1544141513 d:\user document\documents\apuntes\utn\programacion 1\sancineto_rsp\linkedlist\linkedlist.h
+
+1544275180 source:d:\user document\documents\apuntes\utn\programacion 1\sancineto_rsp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList/LinkedList.h"
+	"parser.h"
+	"UTN/utn.h"
+	"vendedor.h"
+
+1544272509 d:\user document\documents\apuntes\utn\programacion 1\sancineto_rsp\parser.h
+
+1544110050 d:\user document\documents\apuntes\utn\programacion 1\sancineto_rsp\utn\utn.h
+
+1544275556 d:\user document\documents\apuntes\utn\programacion 1\sancineto_rsp\vendedor.h
+
+1544275318 source:d:\user document\documents\apuntes\utn\programacion 1\sancineto_rsp\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList/LinkedList.h"
+	"vendedor.h"
+	"parser.h"
+
+1544110050 source:d:\user document\documents\apuntes\utn\programacion 1\sancineto_rsp\utn\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1544275556 source:d:\user document\documents\apuntes\utn\programacion 1\sancineto_rsp\vendedor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList/LinkedList.h"
+	"vendedor.h"
+	"UTN/utn.h"
+	"parser.h"
+
